@@ -30,3 +30,12 @@ $ python pixel.py image_path
 example
 $ python pixel.py test.jpg
 ```
+
+## Sample
+```zsh
+$ python pixel.py content.jpg
+```
+As a result, this script will generate many images and a mp4.
+
+![input image](https://github.com/sleepy-maker/pixelsdrag/blob/master/content.jpg)
+![output](https://github.com/sleepy-maker/pixelsdrag/blob/master/sample.gif)
